@@ -36,3 +36,46 @@ h1{
     display: flex;
     padding-right: 5%;
 }
+.my-recipies{
+    text-align:center;
+    
+}
+.recipies-details{
+    display: flex;
+   width: 27%;
+    height: 540px;
+    margin-left: 5%;
+    margin-right: 8%;
+}
+.image-size{
+    height: 220px;
+    width: 350px;
+
+
+    
+}
+.recipies-title{
+    padding-right: 10%;
+    
+   
+}
+.border{
+    border: 15px white solid;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow:-2px -2px 15px 15px rgba(0,0,0,0.10);
+}
+.footer-section{
+    padding-top: 100px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+height: 200px;
+padding-top: 5px;
+
+}
+
